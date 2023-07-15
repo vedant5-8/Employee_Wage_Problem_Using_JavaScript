@@ -17,7 +17,7 @@ function getWorkingHours(empCheck) {
     }
 }
 
-const NUM_OF_WORKING_DAYS = 2;
+const NUM_OF_WORKING_DAYS = 20;
 let empHrs = 0;
 
 for (let day = 0; day < NUM_OF_WORKING_DAYS; day++) {
